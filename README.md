@@ -1,2 +1,2 @@
-# Learn-.Net-framework
-This is repo using learn anything about .Net framework.
+# Learn .Net framework
+This is repository for learning everything about .Net framework.
