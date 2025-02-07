@@ -1,0 +1,15 @@
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\bin\Debug\net8.0\exercise_implement_try_catch.exe
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\bin\Debug\net8.0\exercise_implement_try_catch.deps.json
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\bin\Debug\net8.0\exercise_implement_try_catch.runtimeconfig.json
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\bin\Debug\net8.0\exercise_implement_try_catch.dll
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\bin\Debug\net8.0\exercise_implement_try_catch.pdb
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.AssemblyInfoInputs.cache
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.AssemblyInfo.cs
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.csproj.CoreCompileInputs.cache
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.sourcelink.json
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.dll
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\refint\exercise_implement_try_catch.dll
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.pdb
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\exercise_implement_try_catch.genruntimeconfig.cache
+d:\Private\DI\Foundational_C#\debug_c#_console_applications\exercise_implement_try_catch\obj\Debug\net8.0\ref\exercise_implement_try_catch.dll
