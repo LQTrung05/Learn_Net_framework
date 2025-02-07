@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj": {}
+    "d:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj": {}
   },
   "projects": {
-    "D:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj": {
+    "d:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
+        "projectUniqueName": "d:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
         "projectName": "use_dependency_injection",
-        "projectPath": "D:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
+        "projectPath": "d:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
         "packagesPath": "C:\\Users\\NamekTrungLQ\\.nuget\\packages\\",
-        "outputPath": "D:\\Private\\DI\\use_dependency_injection\\obj\\",
+        "outputPath": "d:\\Private\\DI\\use_dependency_injection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NamekTrungLQ\\AppData\\Roaming\\NuGet\\NuGet.Config",

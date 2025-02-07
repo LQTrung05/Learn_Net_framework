@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SzyxFQvyJ6+y/f+mq3VpPSfsN/981Da2cvO7cqjDs6aLb+2MxkQV3EZjbaKfbXDZFjyAPOtsm5TgZYcyMzNieA==",
+  "dgSpecHash": "cMp0ccIOJCU2DQa7IILYGxakheLEilPUw21lnx2IhxiF+6E9676v2DZUEwdzFBqGCYLoWHDLqeUgQ+DjOWZnkA==",
   "success": true,
-  "projectFilePath": "D:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
+  "projectFilePath": "d:\\Private\\DI\\use_dependency_injection\\use_dependency_injection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NamekTrungLQ\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
     "C:\\Users\\NamekTrungLQ\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
