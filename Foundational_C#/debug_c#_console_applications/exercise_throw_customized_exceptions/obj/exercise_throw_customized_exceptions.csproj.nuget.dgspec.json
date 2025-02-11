@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_implement_try_catch\\exercise_implement_try_catch.csproj": {}
+    "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_throw_customized_exceptions\\exercise_throw_customized_exceptions.csproj": {}
   },
   "projects": {
-    "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_implement_try_catch\\exercise_implement_try_catch.csproj": {
+    "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_throw_customized_exceptions\\exercise_throw_customized_exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_implement_try_catch\\exercise_implement_try_catch.csproj",
-        "projectName": "exercise_implement_try_catch",
-        "projectPath": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_implement_try_catch\\exercise_implement_try_catch.csproj",
+        "projectUniqueName": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_throw_customized_exceptions\\exercise_throw_customized_exceptions.csproj",
+        "projectName": "exercise_throw_customized_exceptions",
+        "projectPath": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_throw_customized_exceptions\\exercise_throw_customized_exceptions.csproj",
         "packagesPath": "C:\\Users\\NamekTrungLQ\\.nuget\\packages\\",
-        "outputPath": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_implement_try_catch\\obj\\",
+        "outputPath": "d:\\Private\\learn_dotnet_framework\\Foundational_C#\\debug_c#_console_applications\\exercise_throw_customized_exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NamekTrungLQ\\AppData\\Roaming\\NuGet\\NuGet.Config",

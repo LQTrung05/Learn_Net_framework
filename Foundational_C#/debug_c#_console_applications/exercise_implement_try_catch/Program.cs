@@ -1,5 +1,4 @@
-﻿
-try
+﻿try
 {
   int num1 = int.MaxValue;
   int num2 = int.MaxValue;

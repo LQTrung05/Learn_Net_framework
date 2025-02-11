@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exercise_throw_customized_exceptions/1.0.0": {
+        "runtime": {
+          "exercise_throw_customized_exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise_throw_customized_exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
