@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\bin\Debug\net8.0\example_args_in_main_method.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\bin\Debug\net8.0\example_args_in_main_method.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\bin\Debug\net8.0\example_args_in_main_method.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\bin\Debug\net8.0\example_args_in_main_method.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\bin\Debug\net8.0\example_args_in_main_method.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\refint\example_args_in_main_method.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\example_args_in_main_method.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\example_args_in_main_method\obj\Debug\net8.0\ref\example_args_in_main_method.dll

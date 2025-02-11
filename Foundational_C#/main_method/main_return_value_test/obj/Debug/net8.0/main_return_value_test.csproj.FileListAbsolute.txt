@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\bin\Debug\net8.0\main_return_value_test.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\bin\Debug\net8.0\main_return_value_test.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\bin\Debug\net8.0\main_return_value_test.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\bin\Debug\net8.0\main_return_value_test.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\bin\Debug\net8.0\main_return_value_test.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\refint\main_return_value_test.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\main_return_value_test.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\main_method\main_return_value_test\obj\Debug\net8.0\ref\main_return_value_test.dll
