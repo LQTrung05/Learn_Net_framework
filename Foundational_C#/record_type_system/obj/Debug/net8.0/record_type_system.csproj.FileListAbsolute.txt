@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\bin\Debug\net8.0\record_type_system.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\bin\Debug\net8.0\record_type_system.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\bin\Debug\net8.0\record_type_system.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\bin\Debug\net8.0\record_type_system.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\bin\Debug\net8.0\record_type_system.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\refint\record_type_system.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\record_type_system.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\record_type_system\obj\Debug\net8.0\ref\record_type_system.dll
