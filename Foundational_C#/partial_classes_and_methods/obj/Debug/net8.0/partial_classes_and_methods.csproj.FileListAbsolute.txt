@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\bin\Debug\net8.0\partial_classes_and_methods.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\bin\Debug\net8.0\partial_classes_and_methods.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\bin\Debug\net8.0\partial_classes_and_methods.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\bin\Debug\net8.0\partial_classes_and_methods.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\bin\Debug\net8.0\partial_classes_and_methods.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\refint\partial_classes_and_methods.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\partial_classes_and_methods.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\partial_classes_and_methods\obj\Debug\net8.0\ref\partial_classes_and_methods.dll
