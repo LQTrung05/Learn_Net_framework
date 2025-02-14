@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\bin\Debug\net8.0\define_value_equality_a_type.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\bin\Debug\net8.0\define_value_equality_a_type.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\bin\Debug\net8.0\define_value_equality_a_type.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\bin\Debug\net8.0\define_value_equality_a_type.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\bin\Debug\net8.0\define_value_equality_a_type.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\refint\define_value_equality_a_type.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\define_value_equality_a_type.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\define_value_equality_a_type\obj\Debug\net8.0\ref\define_value_equality_a_type.dll
