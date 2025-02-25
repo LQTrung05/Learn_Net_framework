@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example_polymorphism", "example_polymorphism.csproj", "{EB124BAA-6BF1-E8DE-7D4D-B4AEE39B96AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB124BAA-6BF1-E8DE-7D4D-B4AEE39B96AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB124BAA-6BF1-E8DE-7D4D-B4AEE39B96AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB124BAA-6BF1-E8DE-7D4D-B4AEE39B96AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB124BAA-6BF1-E8DE-7D4D-B4AEE39B96AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1A5815-1E49-45FF-A8D0-1B187B96E034}
+	EndGlobalSection
+EndGlobal

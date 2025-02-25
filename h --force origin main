@@ -1,0 +1,84 @@
+[33mcommit b0ac9dc2532f1bfab25977107161215c7909e2c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Fri Feb 14 11:32:39 2025 +0700
+
+    example about define value equality type
+
+[33mcommit d38572eba8078b12433f02630f1703eaa74bd2c4[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Thu Feb 13 10:50:25 2025 +0700
+
+    example about partial class and methods
+
+[33mcommit 2998698b2c7f26a729bcba7c08eef7a1d9a2ac7f[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Wed Feb 12 17:33:59 2025 +0700
+
+    example about record type in C#
+
+[33mcommit fc2d2cd2b05b72a991f0c144db07d8928f822626[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Wed Feb 12 17:33:21 2025 +0700
+
+    example about generic class and method
+
+[33mcommit b9b6b756c924fffb3ca19ffa0356a86e2b1ad229[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Tue Feb 11 14:18:32 2025 +0700
+
+    learn Main() and command-line arguments
+
+[33mcommit 6c3d52308267fd0e6688078b84d58fad1e6bc720[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Tue Feb 11 11:56:12 2025 +0700
+
+    exercise to practice exception handing
+
+[33mcommit b06ecb293426f54d069e99fcc59e48aa62214f4c[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Tue Feb 11 11:54:27 2025 +0700
+
+    earned a certification from freecodecamp
+
+[33mcommit 4edd5674c06f7002d49784b9ebb6aff4037f6f01[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Fri Feb 7 14:35:26 2025 +0700
+
+    Exercise catch specific exceptions challenge
+
+[33mcommit 0954717602485d7c42b60ea528ee98e7aa0fc24f[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Fri Feb 7 11:55:43 2025 +0700
+
+    add DI parent folder
+
+[33mcommit 69ae304ca13349444b2fbe11e236a17486c5d775[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Mon Feb 3 18:01:21 2025 +0700
+
+    Update tutorial use dependency injection in .Net
+
+[33mcommit a23e555b9cff0b0393bc2a5117fcb59cdb3f3cc0[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Mon Feb 3 16:50:01 2025 +0700
+
+    Rename folder and create a new project DI
+
+[33mcommit 95d27aa443295b5ca78607c2fbae8ace9ac6a7f0[m
+Merge: 12fa024 dfd80e1
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Mon Feb 3 16:36:41 2025 +0700
+
+    Merge branch 'master'
+
+[33mcommit dfd80e1845f0796e5874be443a77fcde6ae951b8[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Mon Feb 3 16:16:42 2025 +0700
+
+    Example about DI basics
+
+[33mcommit 64965177981897f23c23fa5856b318067054d3fc[m
+Author: [1;31mNamekLQT[m\NamekTrungLQ <trunglq059@gmail.com>
+Date:   Mon Feb 3 14:59:20 2025 +0700
+
+    Init project

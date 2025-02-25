@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\bin\Debug\net8.0\example_polymorphism.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\bin\Debug\net8.0\example_polymorphism.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\bin\Debug\net8.0\example_polymorphism.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\bin\Debug\net8.0\example_polymorphism.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\bin\Debug\net8.0\example_polymorphism.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\refint\example_polymorphism.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\example_polymorphism.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\example_polymorphism\obj\Debug\net8.0\ref\example_polymorphism.dll
