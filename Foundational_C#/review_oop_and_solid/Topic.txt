@@ -1,0 +1,83 @@
+Bài tập 1: Encapsulation (Đóng gói)
+Viết một class BankAccount có các thuộc tính:
+
+accountNumber (chỉ đọc, không thể thay đổi sau khi khởi tạo).
+balance (chỉ có thể thay đổi thông qua phương thức Deposit() và Withdraw()).
+Một phương thức GetBalance() để xem số dư tài khoản.
+📌 Yêu cầu:
+
+Không cho phép truy cập trực tiếp vào balance.
+Không cho phép thay đổi accountNumber sau khi tạo tài khoản.
+✏ Bạn hãy viết code C# cho class này!
+
+📝 Bài tập 2: Inheritance & Polymorphism (Kế thừa & Đa hình)
+Viết một class Shape có phương thức CalculateArea().
+
+Tạo hai class Circle và Rectangle kế thừa từ Shape.
+Circle có thuộc tính radius, Rectangle có width và height.
+Ghi đè phương thức CalculateArea() để tính diện tích phù hợp cho từng loại hình.
+📌 Yêu cầu:
+
+Dùng override để định nghĩa lại phương thức CalculateArea().
+Viết một đoạn code kiểm tra phương thức này với nhiều đối tượng Shape.
+✏ Hãy viết code và chạy thử với một vài giá trị khác nhau!
+
+📝 Bài tập 3: Open/Closed Principle (OCP)
+Bạn có class DiscountCalculator như sau:
+
+csharp
+Copy
+Edit
+class DiscountCalculator {
+    public double CalculateDiscount(string customerType, double price) {
+        if (customerType == "Regular") return price * 0.05;
+        if (customerType == "VIP") return price * 0.1;
+        return 0;
+    }
+}
+📌 Vấn đề: Nếu thêm loại khách hàng mới, bạn phải sửa đổi code.
+
+🔧 Yêu cầu: Hãy viết lại class này để tuân theo nguyên tắc OCP (mở rộng mà không chỉnh sửa class cũ).
+
+✏ Bạn sẽ giải quyết vấn đề này như thế nào? Viết lại code!
+
+📝 Bài tập 4: Interface Segregation Principle (ISP)
+Giả sử bạn có interface IWorker:
+
+csharp
+Copy
+Edit
+interface IWorker {
+    void Work();
+    void Eat();
+}
+📌 Vấn đề: Nếu bạn có class Robot implement interface này, nó phải triển khai phương thức Eat(), dù robot không cần ăn.
+
+🔧 Yêu cầu: Hãy viết lại interface theo ISP để tránh vấn đề này.
+
+✏ Bạn sẽ sửa interface và class Robot như thế nào?
+
+📝 Bài tập 5: Dependency Inversion Principle (DIP)
+Bạn có một class EmailService như sau:
+
+csharp
+Copy
+Edit
+class EmailService {
+    public void SendEmail(string message) {
+        Console.WriteLine("Sending Email: " + message);
+    }
+}
+
+class Notification {
+    private EmailService _emailService = new EmailService();
+    
+    public void Notify(string message) {
+        _emailService.SendEmail(message);
+    }
+}
+📌 Vấn đề: Class Notification phụ thuộc trực tiếp vào EmailService, làm cho việc mở rộng khó khăn.
+
+🔧 Yêu cầu: Viết lại code này để tuân theo DIP, sao cho có thể dễ dàng thay đổi EmailService mà không cần sửa Notification.
+
+✏ Bạn sẽ thiết kế lại thế nào? Hãy viết lại code!

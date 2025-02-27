@@ -1,0 +1,15 @@
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\bin\Debug\net8.0\review_oop_and_solid.exe
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\bin\Debug\net8.0\review_oop_and_solid.deps.json
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\bin\Debug\net8.0\review_oop_and_solid.runtimeconfig.json
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\bin\Debug\net8.0\review_oop_and_solid.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\bin\Debug\net8.0\review_oop_and_solid.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.AssemblyInfoInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.AssemblyInfo.cs
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.csproj.CoreCompileInputs.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.sourcelink.json
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\refint\review_oop_and_solid.dll
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.pdb
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\review_oop_and_solid.genruntimeconfig.cache
+D:\Private\learn_dotnet_framework\Foundational_C#\review_oop_and_solid\obj\Debug\net8.0\ref\review_oop_and_solid.dll
